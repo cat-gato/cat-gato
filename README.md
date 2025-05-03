@@ -1,2 +1,2 @@
 # about-me
-GitHub Profile About Me
+GitHub account for School
