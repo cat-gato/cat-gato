@@ -1,2 +1,2 @@
-# about-me 😺
-GitHub account for School
+# About me 😺
+This is my GitHub account for School
